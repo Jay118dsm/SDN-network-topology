@@ -1,4 +1,4 @@
 # SDN-network-topology
-For this project, we developed a SDN network topology using Ryu framework under the Mininet. To meet the requirement of this network can provide two different transmission ways.
+We developed a SDN network topology using Ryu framework under the Mininet. Thus, this network can provide two different transmission approches.
 
-The function can be tested through Mininet in the ubuntu.
+This functionality has been tested through Mininet in the Ubuntu.
